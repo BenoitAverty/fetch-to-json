@@ -1,0 +1,25 @@
+{
+  "name": "fetch-to-json",
+  "version": "1.0.0",
+  "description": "Convert the result of a javascript \"fetch\" call to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaidjin/fetch-to-json.git"
+  },
+  "keywords": [
+    "fetch",
+    "json",
+    "javascript",
+    "promise"
+  ],
+  "author": "Benoit Averty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kaidjin/fetch-to-json/issues"
+  },
+  "homepage": "https://github.com/Kaidjin/fetch-to-json#readme"
+}
